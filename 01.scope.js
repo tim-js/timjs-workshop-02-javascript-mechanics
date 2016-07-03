@@ -68,7 +68,7 @@ console.log(y);
 // affects code "after" statement, "within" the scope
 // don't put it in global scope
 // use IIFE
-// always use Strict Mode
+// always use Strict Mode !!!
 // implicit in ES6 Modules & Classes
 
 

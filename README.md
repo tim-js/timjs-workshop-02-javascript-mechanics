@@ -2,16 +2,17 @@
 
 Welcome to the second JavaScript workshop, organized by [tim.js][timjs].
 
-We will ... . We will cover some fundamental concepts of ES5, while also touching some new features added in ES6.
+In this workshop we will address the politics that govern the citizens of ECMAScript. We will cover some fundamental concepts of ES5, while also touching some new features added starting with ES6.
 
 Tutor: __Andrei Pfeiffer__
 
 ## Content
 
-- __Scope__: hoisting, TDZ, blocks, arguments;
-- __Strict Mode__: implicit globals;
+- __Scope__: globals, hoisting, TDZ, blocks;
+- __Strict Mode__: usage, present & future;
 - __Values vs References__: deep equality, cloning;
 - __Context__: _this_ binding, changing context;
+- __Function arguments__: defaults, signatures;
 
 ## What you need?
 
@@ -59,22 +60,6 @@ NOTE: if you have a GitHub account, you can fork this repo, so you can commit yo
 __b) without git:__
 
 __[Download][download_repo]__ this repo and unzip it in your PROJECT_NAME folder.
-
-
-
-### 3. Install dependencies
-
-```
-npm install
-```
-
-### 4. Run project
-
-```
-npm start
-```
-
-This should display a URL in the console, where you can load the project page.
 
 [download_repo]: https://github.com/andreipfeiffer/timjs-workshop-02-javascript-mechanics/archive/master.zip
 [download_node]: https://nodejs.org/en/download/
