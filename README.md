@@ -24,8 +24,8 @@ Here's a list of things you need:
 
 ## Who is it for?
 
-- Intermediate JavaScript developers, that have a good understanding of functions & objects, but want to discover the language at a deeper level
-- Advanced developers, who switched to JavaScript and want to understand its mechanics
+- __Intermediate JavaScript developers__, that have a good understanding of functions & objects, but want to discover the language at a deeper level
+- __Advanced developers__, who switched to JavaScript and want to understand its mechanics
 
 ## Setup
 
