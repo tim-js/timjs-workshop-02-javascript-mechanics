@@ -50,7 +50,8 @@ b(1, 2);
  */
 
 function sum() {
-	const arr = [].slice.call(arguments);
+	// const arr = [].slice.call(arguments);
+	// const arr = Array.from(arguments);
 }
 
 sum(); // 0

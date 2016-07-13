@@ -84,9 +84,11 @@ const user1 = {
 		console.log( greet, this.name, end );
 	}
 };
+
 const user2 = {
 	name: 'Matei'
 };
+
 user1.getName.call(user2, 'Salut', '!!!');
 user1.getName.apply(user2, ['Salut', '!!!']);
 

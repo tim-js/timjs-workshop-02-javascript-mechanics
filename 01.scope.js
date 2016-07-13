@@ -122,6 +122,10 @@ const x = 1;
 x = 2;
 // var MAX_AGE = 90;
 
+// prefer "const"
+// use "let" for variables
+// forget "var"
+
 
 /**
  *  Function arguments
