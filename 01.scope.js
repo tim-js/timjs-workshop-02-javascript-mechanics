@@ -130,7 +130,7 @@ x = 2;
 /**
  *  Function arguments
  */
-
+// var param = 1;
 function a(param) {
 	console.log(param);
 }
