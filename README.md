@@ -2,14 +2,14 @@
 
 Welcome to the second JavaScript workshop, organized by [tim.js][timjs].
 
-In this workshop we will address the politics that govern the citizens of ECMAScript. We will cover some fundamental concepts of ES5, while also touching some new features added starting with ES6.
+In this workshop we will address the politics that govern the citizens of ECMAScript. We will cover some fundamental concepts of ES5, while also touching some new features added in ES6.
 
 Tutor: __Andrei Pfeiffer__
 
 ## Content
 
-- __Scope__: globals, hoisting, TDZ, blocks;
-- __Strict Mode__: usage, present & future;
+- __Scope__: globals, hoisting, blocks, TDZ;
+- __Strict Mode__: present & future;
 - __Values vs References__: deep equality, cloning;
 - __Context__: _this_ binding, changing context;
 - __Function arguments__: defaults, signatures;
