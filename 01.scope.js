@@ -46,6 +46,7 @@ console.log(x, 'global scope');
 function a() {
 	y = 1;
 }
+a();
 console.log(y);
 
 
@@ -60,6 +61,7 @@ x = 1;
 function a() {
 	y = 1;
 }
+a();
 console.log(y);
 
 // optional
@@ -70,6 +72,14 @@ console.log(y);
 // use IIFE
 // always use Strict Mode !!!
 // implicit in ES6 Modules & Classes
+
+/**
+ *  Strict mode with non-simple parameters
+ */
+function strict(first = 1) {
+	// 'use strict';
+	return first;
+}
 
 
 /**
@@ -110,16 +120,16 @@ console.log(x);
  *  Temporal Dead Zone (TDZ)
  */
 
-console.log(x);
-let x = 1;
+console.log(y);
+let y = 1;
 
 
 /**
  *  Constants
  */
 
-const x = 1;
-x = 2;
+const z = 1;
+z = 2;
 // var MAX_AGE = 90;
 
 // prefer "const"
@@ -143,5 +153,5 @@ a(20);
  *  Not defined vs. Undefined
  */
 
-// var z;
-console.log(z);
+// var u;
+console.log(u);
