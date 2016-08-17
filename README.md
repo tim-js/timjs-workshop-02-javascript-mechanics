@@ -2,7 +2,7 @@
 
 Welcome to the second JavaScript workshop, organized by [tim.js][timjs].
 
-In this workshop we will address the politics that govern the citizens of ECMAScript. We will cover some fundamental concepts of ES5, while also touching some new features introduced since ES6.
+In this workshop we will address the politics that govern the citizens of ECMAScript. We will cover some fundamental concepts of ES5, while also touching new features introduced since ES6.
 
 Tutor: __Andrei Pfeiffer__
 
