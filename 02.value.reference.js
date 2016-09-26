@@ -26,7 +26,6 @@ o2.b = 2;
 // console.log(o1 === o2);
 
 // how do you think should be "normal"?
-// "2 red cars"
 
 
 /**
@@ -59,6 +58,7 @@ var o = { nr: 2 };
 
 // objects are "equal" if they have the same reference
 // objects are "deep equal" if they have the same "content"
+// "2 red cars"
 
 // QUIZ: implement deepEqual()
 
