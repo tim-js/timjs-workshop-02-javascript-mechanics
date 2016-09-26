@@ -21,13 +21,3 @@
 /**
  *  Object Cloning
  */
-
-
-/**
- *  Impure Functions
- */
-
-
-/**
- *  Pure Functions
- */
