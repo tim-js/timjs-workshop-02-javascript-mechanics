@@ -80,8 +80,8 @@ user.getName();
 
 const user1 = {
 	name: 'Andrei',
-	getName(greet, end) {
-		console.log( greet, this.name, end );
+	getName(greet) {
+		console.log( greet, this.name );
 	}
 };
 
@@ -89,11 +89,14 @@ const user2 = {
 	name: 'Matei'
 };
 
-user1.getName.call(user2, 'Salut', '!!!');
-user1.getName.apply(user2, ['Salut', '!!!']);
+user1.getName.call(user2, 'Salut');
+user1.getName.apply(user2, ['Salut']);
 
-const getUserName2 = user1.getName.bind(user2, 'Hello', '...');
+const getUserName2 = user1.getName.bind(user2, 'Hello');
 getUserName2();
 
 // call, apply: temporar
 // bind: permanent
+
+const getName = user1.getName;
+getName('Yo');
