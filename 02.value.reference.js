@@ -87,26 +87,3 @@ function clone(obj) {
 
 // console.log( o1 === o2 ); // false
 // console.log( isDeepEqual(o1, o2) ); // true
-
-
-/**
- *  Impure Functions
- */
-
-var n = 1;
-var impure1 = () => n += 1;
-console.log(n, impure1(n), n);
-
-var impure2 = (obj) => obj.nr += 1;
-console.log(o.nr, impure2(o), o.nr);
-
-
-/**
- *  Pure Functions
- */
-
-var pure1 = (nr) => nr += 1;
-console.log(n, pure1(n), n);
-
-var pure2 = (obj) => obj.nr + 1;
-console.log(o.nr, pure2(o), o.nr);
