@@ -52,6 +52,7 @@ b(1, 2);
 function sum() {
 	// const arr = [].slice.call(arguments);
 	// const arr = Array.from(arguments);
+	// rest operator
 }
 
 sum(); // 0
