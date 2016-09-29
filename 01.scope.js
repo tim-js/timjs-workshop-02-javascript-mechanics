@@ -149,9 +149,9 @@ z = 2;
  *  Function arguments
  */
 // var param = 1;
-function a(param) {
+function p(param) {
 	console.log(param);
 }
-a(20);
+p(20);
 
 // part of the local scope
