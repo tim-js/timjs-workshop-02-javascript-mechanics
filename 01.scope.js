@@ -21,6 +21,11 @@ a();
 
 
 /**
+ *  Not defined vs. Undefined
+ */
+
+
+/**
  *  Hoisting
  */
 
@@ -47,9 +52,4 @@ a();
 
 /**
  *  Function arguments
- */
-
-
-/**
- *  Not defined vs. Undefined
  */
