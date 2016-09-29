@@ -83,6 +83,14 @@ function strict(first = 1) {
 
 
 /**
+ *  Not defined vs. Undefined
+ */
+
+// var u;
+console.log(u);
+
+
+/**
  *  Hoisting
  */
 
@@ -147,11 +155,3 @@ function a(param) {
 a(20);
 
 // part of the local scope
-
-
-/**
- *  Not defined vs. Undefined
- */
-
-// var u;
-console.log(u);
