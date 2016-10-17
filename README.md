@@ -24,7 +24,7 @@ Here's a list of things you need:
 
 ## Who is it for?
 
-- __Intermediate JavaScript developers__ that want to discover the language at a deeper level
+- __Intermediate JavaScript developers__ familiar with functions, arrays & objects, that want to discover the language at a deeper level
 - __Advanced developers__ that switched to JavaScript and want to understand its mechanics
 
 ## Setup
