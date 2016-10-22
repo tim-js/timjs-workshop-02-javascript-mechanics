@@ -72,6 +72,7 @@ console.log(y);
 // use IIFE
 // always use Strict Mode !!!
 // implicit in ES6 Modules & Classes
+// only whitespace & comments before
 
 /**
  *  Strict mode with non-simple parameters
@@ -155,3 +156,5 @@ function p(param) {
 p(20);
 
 // part of the local scope
+// var allows param override
+// let & const don't allow
