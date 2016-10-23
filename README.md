@@ -19,8 +19,8 @@ Tutor: __Andrei Pfeiffer__
 Here's a list of things you need:
 
 1. a laptop & power-plug
-2. a code editor (_optional_)
-3. [Node.js][download_node] 4.0+ (_optional_)
+2. a code editor
+3. [Node.js][download_node] 6.0+
 
 ## Who is it for?
 
