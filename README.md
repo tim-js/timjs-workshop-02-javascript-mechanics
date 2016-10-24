@@ -4,9 +4,9 @@ Welcome to the second JavaScript workshop, organized by [tim.js][timjs].
 
 In this workshop we will address the politics that govern the citizens of ECMAScript. We will cover some fundamental concepts of ES5, while also touching new features introduced since ES6.
 
-Instructor: __Andrei Pfeiffer__
-
 Total Time: __6 hours__ (including breaks & lunch)
+
+Instructor: __Andrei Pfeiffer__
 
 ## Content
 
